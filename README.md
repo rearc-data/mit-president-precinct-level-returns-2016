@@ -5,7 +5,7 @@
 U.S. President Precinct-Level Returns 2016 | Harvard Dataverse / MEDSL
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-sksbjjpugg5nm](https://aws.amazon.com/marketplace/pp/prodview-sksbjjpugg5nm).
 
 ## Main Overview
 
